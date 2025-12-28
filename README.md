@@ -1,16 +1,19 @@
-## Hi there 👋
 
-<!--
-**pragya-rajput/Pragya-Rajput** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I'm Pragya Rajput 👋
 
-Here are some ideas to get you started:
+I am a B.Tech CSE student learning frontend web development.
+Currently building projects to strengthen my fundamentals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently Learning
+- HTML
+- CSS
+- JavaScript
+
+### Skills
+- HTML5
+- Git & GitHub (basic)
+
+### Learning Source
+- The Odin Project
+
+🔗 LinkedIn: https://www.linkedin.com/in/pragya-rajput?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
