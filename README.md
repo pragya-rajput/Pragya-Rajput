@@ -4,7 +4,8 @@
 A B.Tech CSE student passionate about software developmentand web technologies.
 
 ## About Me
--<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/89432668-c4a9-4010-8be1-5c464852c723" />
+-<img src="<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/9bd54b3b-34a0-4666-9ce2-b3a6e2d58f6e" />
+" width="250">
  B.Tech CSE student
 - Currently learning javaScript and Web Development
 - Interested in Software Develoment
