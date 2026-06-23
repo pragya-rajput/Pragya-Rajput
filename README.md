@@ -9,6 +9,12 @@ A B.Tech CSE student passionate about software development and web technologies.
 - 💻 Interested in Software Development
 - 🚀 Looking for Internship Opportunities
 
+## 🌱 Currently Learning
+ - Data Structures & Algorithms
+ - Advanced JavaScript
+ - Software Development Practices
+ - Git & GitHub
+
 ## 💻 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,html,css,js,git,github,vscode)](https://skillicons.dev)
 
