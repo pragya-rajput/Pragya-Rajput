@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Pragya Rajput
 
-A B.Tech CSE student passionate about software developmentand web technologies.
+A B.Tech CSE student passionate about software development and web technologies.
 
 ## 🎓 About Me
 - 🎓 B.Tech CSE student
