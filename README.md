@@ -3,16 +3,64 @@
 
 A B.Tech CSE student passionate about software developmentand web technologies.
 
-## About Me
+## 🎓 About Me
 - 🎓 B.Tech CSE student
 - 🌱 Currently learning JavaScript and Web Development
 - 💻 Interested in Software Development
 - 🚀 Looking for Internship Opportunities
 
-## Tech Stack
+## 💻 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,html,css,js,git,github,vscode)](https://skillicons.dev)
 
-### Learning Source
+## 🚀 Projects
+
+### 📝 To-Do List Web Application
+
+A task management application that allows users to organize tasks into projects, set priorities, and manage deadlines.
+
+🔗 Repository: https://github.com/pragya-rajput/To-Do-list-
+
+🌐 Live Demo: https://pragya-rajput.github.io/To-Do-list-/
+
+---
+
+### 🍽️ Restaurant Website
+
+A responsive restaurant website with dynamic page navigation built using HTML, CSS, JavaScript, and Webpack.
+
+🔗 Repository: [GitHub](YOUR_RESTAURANT_REPO_LINK)
+
+🌐 Live Demo: [View Project](YOUR_RESTAURANT_LIVE_LINK)
+
+---
+
+### ✊✋✌️ Rock Paper Scissors Game
+
+An interactive browser-based game developed using JavaScript, HTML, and CSS.
+
+🔗 Repository: [GitHub](YOUR_RPS_REPO_LINK)
+
+🌐 Live Demo: [Play Game](YOUR_RPS_LIVE_LINK)
+
+---
+
+### 📚 Library Management System
+
+A library management application for storing and managing book records using Object-Oriented Programming concepts.
+
+🔗 Repository: [GitHub](YOUR_LIBRARY_REPO_LINK)
+
+---
+
+### 🖋️ Text Editor (C++)
+
+A console-based text editor developed in C++ demonstrating file handling and data structure concepts.
+
+🔗 Repository: [GitHub](YOUR_TEXT_EDITOR_REPO_LINK)
+
+
+
+## Learning Source
 - The Odin Project
 
 🔗 LinkedIn: https://www.linkedin.com/in/pragya-rajput?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
