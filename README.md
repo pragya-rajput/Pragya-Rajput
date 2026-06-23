@@ -59,9 +59,9 @@ A console-based text editor developed in C++ demonstrating file handling and dat
 ## 📫 Connect With Me
 
  <a href="mailto:pragya.rajput2019@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+ </a>
  <a href="https://www.linkedin.com/in/pragya-rajput/">
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+ </a>
 
-## Learning Source
-- The Odin Project
-
-🔗 LinkedIn: https://www.linkedin.com/in/pragya-rajput?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
