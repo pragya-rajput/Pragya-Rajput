@@ -28,9 +28,9 @@ A task management application that allows users to organize tasks into projects,
 
 A responsive restaurant website with dynamic page navigation built using HTML, CSS, JavaScript, and Webpack.
 
-🔗 Repository: [GitHub](YOUR_RESTAURANT_REPO_LINK)
+🔗 Repository: https://github.com/pragya-rajput/restaurant-page-practice
 
-🌐 Live Demo: [View Project](YOUR_RESTAURANT_LIVE_LINK)
+🌐 Live Demo: https://pragya-rajput.github.io/restaurant-page-practice/
 
 ---
 
@@ -38,9 +38,9 @@ A responsive restaurant website with dynamic page navigation built using HTML, C
 
 An interactive browser-based game developed using JavaScript, HTML, and CSS.
 
-🔗 Repository: [GitHub](YOUR_RPS_REPO_LINK)
+🔗 Repository: https://github.com/pragya-rajput/RockPaperScissorGameProject
 
-🌐 Live Demo: [Play Game](YOUR_RPS_LIVE_LINK)
+🌐 Live Demo: https://pragya-rajput.github.io/RockPaperScissorGameProject/
 
 ---
 
@@ -48,7 +48,7 @@ An interactive browser-based game developed using JavaScript, HTML, and CSS.
 
 A library management application for storing and managing book records using Object-Oriented Programming concepts.
 
-🔗 Repository: [GitHub](YOUR_LIBRARY_REPO_LINK)
+🔗 Repository: https://github.com/pragya-rajput/Javascript_Project
 
 ---
 
@@ -56,9 +56,10 @@ A library management application for storing and managing book records using Obj
 
 A console-based text editor developed in C++ demonstrating file handling and data structure concepts.
 
-🔗 Repository: [GitHub](YOUR_TEXT_EDITOR_REPO_LINK)
+## 📫 Connect With Me
 
-
+ <a href="mailto:pragya.rajput2019@gmail.com">
+ <a href="https://www.linkedin.com/in/pragya-rajput/">
 
 ## Learning Source
 - The Odin Project
