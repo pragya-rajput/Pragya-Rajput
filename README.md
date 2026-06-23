@@ -64,6 +64,7 @@ A console-based text editor developed in C++ demonstrating file handling and dat
  <a href="https://www.linkedin.com/in/pragya-rajput/">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
  </a>
+ 
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pragya-rajput&show_icons=true)
